@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: lyrklif.github.io
+Token: 3cafc3b1e9d4f75fde799664f0d2f7f363df2c27f02b0e86fca52b4f3093a444
