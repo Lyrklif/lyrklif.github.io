@@ -1,4 +1,11 @@
-https://github.com/Lyrklif
+---
+layout: page
+title: Lyrklif GitHub
+description: Frontend
+---
+
+[Github Profile](https://github.com/Lyrklif) 
+
 
 ## Tech Stack
 <p>
